@@ -1,5 +1,3 @@
-# SIKAP-Kemenkum-Kanwil-Sumut
-
 # SIKAP (Sistem Informasi Kehadiran Acara Pegawai)
 
 Sistem Informasi Kehadiran Acara Pegawai adalah aplikasi web untuk mengelola kehadiran pegawai dalam berbagai acara. Dibangun dengan Laravel dan Filament untuk antarmuka admin yang mudah digunakan.
