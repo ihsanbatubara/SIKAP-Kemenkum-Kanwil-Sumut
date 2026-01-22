@@ -1,4 +1,4 @@
-# Project-SIKAP-Kemenkum-Kanwil-Sumut
+# SIKAP-Kemenkum-Kanwil-Sumut
 
 # SIKAP (Sistem Informasi Kehadiran Acara Pegawai)
 
